@@ -12,7 +12,7 @@ at a@cyreal.org
 Browse our collection of fonts on our website http://www.cyreal.org
 
 Opensource fonts from Cyreal are available through 
-Google Fonts, Font Squirrel, Adobe Edge Web Fonts, and Monotype SkyFonts.
+<a href="http://google.com/webfonts">Google Fonts</a>, Font Squirrel, Adobe Edge Web Fonts, and Monotype SkyFonts.
 
 
 
