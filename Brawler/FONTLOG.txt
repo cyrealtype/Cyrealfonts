@@ -20,19 +20,28 @@ ranges: Latin-1
 To contribute to the project contact Alexei Vanyashin at 
 a@cyreal.org
 
-There are two .VBF Source files:
-1. Brawler_PS_Source.vbf (Merged and optimized file with Postscript outlines)
-2. Brawler_PS_Source_TTF.vbf (Manually hinted file with TrueType outlines)
+There are four .VBF Source files:
+1. Brawler-Regular-OTF.vbf (Merged and optimized file with Postscript outlines)
+2. Brawler-Regular-TTF.vbf (Manually hinted file with TrueType outlines)
+3. Brawler-Bold-OTF.vbf (Merged and optimized file with Postscript outlines)
+4. Brawler-Bold-TTF.vbf (Manually hinted file with TrueType outlines)
 
 ChangeLog
 
-15 December 2011 (v.1.001) (Oleg Frolov)
+15 December 2011 (v.1.001) Oleg Frolov
 — Initial release
 
+11 December 2013 (v.1.000 Bold) Haley Fiege
+— Initial release of Bold version
 
 If you make modifications be sure to add your name (N), 
 email (E), web-address (if you have one) (W) and description (D). 
 This list is in alphabetical order.
+
+N: Haley Fiege
+E: haley@bighuman.com
+W: kingdomofawesome.com
+D: Designer
 
 N: Oleg Frolov
 E: olegf73@gmail.com
