@@ -1,0 +1,47 @@
+FONTLOG for the Artifika font
+
+This file provides detailed information on the Artifika
+font Software.
+
+This information should be distributed along with the 
+Artifika fonts and any derivative works.
+
+Basic Font Information
+
+Artifika is an amiable upright italic for fashionable display titling.
+
+Overall features are tender and crisp, descenders short. Settled curves are sculpted with calligraphic elegance, instrokes have a widening as a tribute to it's broad-nib origin.
+
+Nearly horizontal flat serifs support left-to-right direction, making the typeface pleasant for reading on screen.
+
+Designed by Yulya Zhdanova, Ivan Petrov in 2010-2011.
+
+Artifika is a Unicode typeface family that supports 
+languages that use the Latin script and its variants, and 
+could be expanded to support other scripts.
+
+More specifically, this release supports the following Unicode
+ranges: Latin-1
+
+To contribute to the project contact Alexei Vanyashin at 
+a@cyreal.org
+
+Source files:
+
+1. Artifika-Regular-OTF.vfb (Decomposed, merged 
+   and optimized file with PS contours)
+2. Artifika-Regular-TTF.vbf (Mastered TTF file with manual hints)
+
+ChangeLog
+
+20 May 2011 (Alexei Vanyashin) Artifika v. 1.000
+- Initial release
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and description (D). 
+This list is in alphabetical order.
+
+N: Alexei Vanyashin
+E: a@cyreal.org
+W: www.cyreal.org
+D: Spacing and Mastering
