@@ -27,6 +27,10 @@ Source files:
 
 ChangeLog
 
+5 January 2016 (v. 1.012) Dave Crossland
+- Fixed GPOS table to ensure it works in Firefox 44
+- Roundtripping through TTX reduced the filesize dramatically
+
 16 November 2011 (v. 1.011) Alexei Vanyashin
 - Glyphs /S/, /s/, and /$/ balanced, eliminating backwards slope effect.
 - new Cyreal foundryicon 
