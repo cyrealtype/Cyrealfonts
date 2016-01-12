@@ -1,4 +1,5 @@
-!! WARNING This repo is outdated, and will not be maintained any longer. All up-to-date versions of fonts can be found in their own respective repositories. 
+!! WARNING
+This is an archive and will not be maintained from 2016 onwards. See respective font repos for up-to-date versions
 
 Cyrealfonts
 ===========
