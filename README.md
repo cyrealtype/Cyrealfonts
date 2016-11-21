@@ -1,6 +1,6 @@
-# WARNING: This is an archive and will not be maintained from 2016 onwards. 
+# WARNING: This is an archive that is no longer maintained (since Jan 2016).
 
-See respective font repos in <https://github.com/cyrealtype/> for up-to-date versions
+See respective font repos in <https://github.com/cyrealtype/> for latest versions.
 
 Browse our collection of fonts on our website http://www.cyreal.org
 
